@@ -317,7 +317,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details
 <a href="https://github.com/chittoralovesh">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:chittoralovesh@gmail.com">
+<a href="chittoralovesh@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/lovesh-chittora-1215b227b">
