@@ -103,17 +103,6 @@ Early detection means saved crops, saved money, and saved livelihoods.
 
 <br/>
 
-<!-- 📸 DEMO 📸 -->
-## 🎬 See It In Action
-
-<div align="center">
-
-> *🖼️ Drop a screenshot or GIF of your app here ⬇️*
-
-<img src="https://via.placeholder.com/800x420/22C55E/FFFFFF?text=%F0%9F%8C%BF+Add+your+app+demo+GIF+here+%F0%9F%8C%BF" width="80%" />
-
-</div>
-
 <br/>
 
 <!-- 📊 HOW IT WORKS 📊 -->
@@ -283,10 +272,6 @@ Contributions are what make open source magical! ✨
 <div align="center">
 
 If this project helped you, **drop a ⭐** — it fuels me to build more!
-
-<a href="https://github.com/chittoralovesh/Plant-disease-detection/stargazers">
-  <img src="https://reporoster.com/stars/chittoralovesh/Plant-disease-detection" alt="Stargazers" />
-</a>
 
 </div>
 
